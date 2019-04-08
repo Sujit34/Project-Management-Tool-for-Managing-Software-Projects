@@ -1,0 +1,16 @@
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\bin\Debug\NC_Assignment.exe.config
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\bin\Debug\NC_Assignment.exe
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\bin\Debug\NC_Assignment.pdb
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Add_Comment.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Add_Update_Project.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Add_update_taskcs.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Assign_Res_Person.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Form1.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.IT_Admin_arena.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Project_Details.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.Properties.Resources.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.View_Comment.resources
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.csproj.GenerateResource.Cache
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.exe
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.pdb
+C:\Users\SUJIT\documents\visual studio 2012\Projects\NC_Assignment\NC_Assignment\obj\Debug\NC_Assignment.csprojResolveAssemblyReference.cache
